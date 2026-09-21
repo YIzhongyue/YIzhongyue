@@ -30,16 +30,3 @@ I'm an AI / software engineer based in Japan, interested in building practical A
 ### [PrepDeck](https://github.com/YIzhongyue/PrepDeck)
 
 A study and exam-practice application focused on making question banks, explanations, knowledge organization, and learning workflows easier to manage.
-
-## 🏃 Activities
-
-<div align="left">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=YIzhongyue&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIzhongyue&layout=compact&theme=vue-dark&hide_border=true" />
-</div>
-
----
-
-<p align="center">
-  Thanks for stopping by.
-</p>
