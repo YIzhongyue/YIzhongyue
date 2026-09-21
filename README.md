@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=YIzhongyue&style=flat-square" alt="Profile views" />
+</div>
 
-<!--
-**YIzhongyue/YIzhongyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chuyaku Gi 👋
 
-Here are some ideas to get you started:
+I'm an AI / software engineer based in Japan, interested in building practical AI-powered products and reliable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 I work mainly with **Python**, **FastAPI**, **TypeScript**, **Next.js**, and **AWS**.
+- 🧠 I'm especially interested in **RAG**, search & retrieval, LLM applications, backend architecture, and data-intensive systems.
+- 🛠️ I enjoy turning ideas into maintainable products — from API and database design to cloud deployment and developer tooling.
+- 📚 I'm building [**PrepDeck**](https://github.com/YIzhongyue/PrepDeck), an open-source study and exam-practice application.
+- 📷 Outside of software, I enjoy photography — both digital and film.
+
+## 🌱 Skills
+
+<img alt="My skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=python,fastapi,ts,nextjs,react,postgres,redis,docker,aws,cloudflare,git,github,vscode,linux" />
+
+## 🔭 Current interests
+
+- Retrieval-Augmented Generation (RAG) and information retrieval
+- LLM-powered applications and AI-assisted workflows
+- Backend and API architecture
+- Data engineering and analytics systems
+- Cloud-native application development
+- Open-source developer tools
+
+## 🚀 Projects
+
+### [PrepDeck](https://github.com/YIzhongyue/PrepDeck)
+
+A study and exam-practice application focused on making question banks, explanations, knowledge organization, and learning workflows easier to manage.
+
+## 🏃 Activities
+
+<div align="left">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=YIzhongyue&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIzhongyue&layout=compact&theme=vue-dark&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  Thanks for stopping by.
+</p>
